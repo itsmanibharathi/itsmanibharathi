@@ -39,5 +39,5 @@
 <details><br>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=owncodezs&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <p><img align="right" width="50%"  height="300px"  src="https://github-readme-streak-stats.herokuapp.com/?user=owncodezs&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="owncodezs" /></p>
+  <p><img align="right" width="40%"  height="300px"  src="https://github-readme-streak-stats.herokuapp.com/?user=owncodezs&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="owncodezs" /></p>
 </details>
