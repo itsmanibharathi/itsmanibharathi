@@ -35,7 +35,7 @@
 
 <p><img align="right" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=owncodezs&show_icons=true&locale=en&layout=compact" alt="owncodezs" /></p>
 <h3 align="left">Support:</h3><br><br>
-<p><a href="https://www.buymeacoffee.com/ludena"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ludena" /></a></p><br><br><br><br>
+<p><a href="https://www.buymeacoffee.com/ludena"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ludena" /></a></p><br><br><br><br><br>
 
 <!-- 
 
