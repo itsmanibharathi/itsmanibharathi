@@ -6,7 +6,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 🔭 I’m currently working on **Eyedoner web project**
+- 🔭 I’m currently working on **TamilOffText-Classify**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://itsmanibharathi.github.io/Portfolio/" target="_blank">Portfolio</a>**
 
